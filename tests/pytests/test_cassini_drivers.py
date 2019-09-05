@@ -1,5 +1,6 @@
 import pytest
 import ale
+
 import os
 
 import numpy as np
